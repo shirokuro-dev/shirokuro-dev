@@ -1,0 +1,10 @@
+---
+title: Shirokuro Dev
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
