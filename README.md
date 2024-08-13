@@ -5,7 +5,7 @@ A software developer who builds random web apps and software, and enjoys DIY ele
 
 ### Web Development:
 #### Programming Language:
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
@@ -15,7 +15,7 @@ A software developer who builds random web apps and software, and enjoys DIY ele
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-C76494?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NextJs](https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### Backend:
@@ -32,8 +32,9 @@ A software developer who builds random web apps and software, and enjoys DIY ele
 ![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### DevOps:
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1C60E6?style=for-the-badge&logo=docker&logoColor=white)
 ![circleCI](https://img.shields.io/badge/Circle%20CI-1C273A?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### IoT Development:
