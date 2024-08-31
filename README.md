@@ -20,7 +20,7 @@ A software developer who builds random web apps and software, and enjoys DIY ele
 #### Backend:
 ![Nodejs](https://img.shields.io/badge/Node-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-654ff0?style=flat-square&logo=WebAssembly&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654ff0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 ![WebGPU](https://img.shields.io/static/v1?style=for-the-badge&message=WebGPU&color=005A9C&logo=WebGPU&logoColor=FFFFFF&label=)
 
 #### Database:
